@@ -15,6 +15,7 @@ var cache = [
 ];
 
 function leftPad(str, len, ch) {
+  console.log("Hi!!!");
   // convert `str` to a `string`
   str = str + "";
   // `len` is the `pad`'s length now
